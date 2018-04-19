@@ -16,4 +16,7 @@ void FundsTRans()
 {
 	-----
 }
-
+void print()
+{
+	----------
+}
