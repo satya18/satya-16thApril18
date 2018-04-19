@@ -11,3 +11,9 @@ void withdraw()
 {
 	---------
 }
+
+void FundsTRans()
+{
+	-----
+}
+
